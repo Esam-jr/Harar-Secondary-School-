@@ -47,5 +47,6 @@ http://localhost/3000
   - Add role-based access control for better user management.
   - Implement email notifications for student registrations.
   - Introduce reporting tools for student performance and attendance tracking.
+
 **License**
   - This project is open-source. Feel free to use, modify, and distribute it for educational purposes.
